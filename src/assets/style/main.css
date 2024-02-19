@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins",sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background-color: #EAEAEA;
+  }
+.container{
+    max-width: 1920px;
+    padding: 0 5%;
+}
