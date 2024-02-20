@@ -6,7 +6,7 @@
                Iphone 13 Pro Max
             </div>
             <div class="image">
-                <img src="../assets/products/iPhone-13-Pro-Max-silver-1000x1000 1.png" alt="">
+                <img src="../assets/iPhone-13-Pro-Max-silver-1000x1000 1.png" alt="">
             </div>
         </div>
    </div>
